@@ -1,3 +1,7 @@
 <html>
 <h1> jo hyun jin </h1>
+
+<img src="C:\homepage\img/생선.jfif">
+
 </html>
+
